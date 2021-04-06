@@ -1,5 +1,5 @@
 import React from 'react';
-import './Star.css';
+import '../styles/Star.css';
 
 const Star = ({ star, setStars, stars, lastId, setLastId }) => {
   const toggleStar = (evt) => {

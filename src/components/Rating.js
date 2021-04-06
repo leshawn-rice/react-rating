@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import './Rating.css';
 import Star from './Star';
+import '../styles/Rating.css';
 
 const Rating = ({ numStars = 5 }) => {
   const INITIAL_STARS = []

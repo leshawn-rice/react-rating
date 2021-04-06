@@ -1,5 +1,5 @@
-import './App.css';
-import Rating from './Rating';
+import Rating from './components/Rating';
+import './styles/App.css';
 
 const App = () => {
   return (
