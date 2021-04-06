@@ -18,6 +18,10 @@ If you click on a star twice, that star and all stars before it will be reset.
         npm start
 2. Import the component(s) into your project!
 
+## View Live
+
+You can view a live version of this project [Here](http://react-rating.surge.sh)
+
 ## Watch the process
 
-You can watch me code this project [On my Youtube](https://youtube.com/)
+You can watch me code this project [on my Youtube](https://www.youtube.com/watch?v=dpKNDTNE5Qo)
