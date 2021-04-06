@@ -1,0 +1,12 @@
+.Star {
+  border: none;
+  outline: none;
+  background: none;
+  margin: 0 0.5rem;
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
+.Star-Filled {
+  color: gold;
+}
